@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     ],
     '@nuxtjs/tailwindcss',
     '@nuxt/image-edge',
+    '@nuxtjs/axios',
   ],
   colorMode: {
     classSuffix: ''
