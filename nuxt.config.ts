@@ -11,7 +11,6 @@ export default defineNuxtConfig({
     ],
     '@nuxtjs/tailwindcss',
     '@nuxt/image-edge',
-    '@nuxtjs/color-mode'
   ],
   colorMode: {
     classSuffix: ''

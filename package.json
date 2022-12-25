@@ -12,7 +12,6 @@
     "startCommand": "npm run stackblitz"
   },
   "devDependencies": {
-    "@nuxt/image": "^0.7.1",
     "@nuxt/image-edge": "^1.0.0-27840416.dc1ed65",
     "@nuxtjs/color-mode": "^3.2.0",
     "@nuxtjs/tailwindcss": "^6.1.3",
